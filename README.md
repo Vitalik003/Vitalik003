@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vitosss
+- 👋 Hi, I’m @vitossss
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python-Django
 - 💞️ I’m looking to collaborate on ...
